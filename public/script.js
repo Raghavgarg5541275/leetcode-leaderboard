@@ -1,9 +1,12 @@
-// Replace with your real data when you get the LeetCode links
 const students = [
-  { name: "Aanchal Wadhwani", enrollment: "E23CSEU0071", leetcodeUsername: "aanchalw" },
-  { name: "Aarushi Arora", enrollment: "E23CSEU0268", leetcodeUsername: "aarushi123" },
-  { name: "Aashi", enrollment: "E23CSEU0726", leetcodeUsername: "aashi" },
-  { name: "Raghav", enrollment: "E23CSEU0250", leetcodeUsername: "raghav_garg1" }
+  { name: "Aditya Kumar Jha", enrollment: "E23CSEU1180", leetcodeUsername: "Hardik1752" },
+  { name: "Unnati Sachdeva", enrollment: "E23CSEU1067", leetcodeUsername: "unnatisachdeva" },
+  { name: "Dhruv", enrollment: "E23CSEU1031", leetcodeUsername: "dhruv_31" },
+  { name: "Parth Azad", enrollment: "E23CSEU1032", leetcodeUsername: "parthazad08" },
+  { name: "Keshav Agarwal", enrollment: "E23CSEU1563", leetcodeUsername: "keshav1105ag" },
+  { name: "Vishant", enrollment: "E23CSEU1162", leetcodeUsername: "vixhanttt_" },
+  { name: "Tanvi Dua", enrollment: "E23CSEU1444", leetcodeUsername: "tanvidua_" },
+  { name: "Harsh", enrollment: "E23CSEU1177", leetcodeUsername: "___HaRsH____" }
 ];
 
 let leaderboardData = [];
@@ -63,5 +66,4 @@ function filterLeaderboard() {
   loadLeaderboard(filtered);
 }
 
-// Load on page ready
 window.onload = loadAllData;
