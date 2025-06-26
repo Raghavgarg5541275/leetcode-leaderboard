@@ -6,8 +6,18 @@ const students = [
   { name: "Keshav Agarwal", enrollment: "E23CSEU1563", leetcodeUsername: "keshav1105ag" },
   { name: "Vishant", enrollment: "E23CSEU1162", leetcodeUsername: "vixhanttt_" },
   { name: "Tanvi Dua", enrollment: "E23CSEU1444", leetcodeUsername: "tanvidua_" },
-  { name: "Harsh", enrollment: "E23CSEU1177", leetcodeUsername: "___HaRsH____" }
+  { name: "Harsh", enrollment: "E23CSEU1177", leetcodeUsername: "___HaRsH____" },
+  { name: "Tanvi Kad", enrollment: "E23CSEU1185", leetcodeUsername: "TanviKad" },
+  { name: "Siddhanth Chauhan", enrollment: "E23CSEU1652", leetcodeUsername: "Siddhanth11" },
+  { name: "Tushar Harsan", enrollment: "E23CSEU2451", leetcodeUsername: "TusharHarsan" },
+  { name: "Divyansh Jain", enrollment: "E23CSEU1042", leetcodeUsername: "divyansh_907" },
+  { name: "Himanshu Jangra", enrollment: "E23CSEU1498", leetcodeUsername: "01himanshuu" },
+  { name: "Aryanshh Srivastava", enrollment: "E23CSEU1758", leetcodeUsername: "Aryanshh" },
+  { name: "Sneha Choudhary", enrollment: "E23CSEU1069", leetcodeUsername: "Sneha51" },
+  { name: "Prateek Pant", enrollment: "E23CSEU1130", leetcodeUsername: "prateekpant2204" },
+  { name: "Abhinav Raghav", enrollment: "E23CSEU0250", leetcodeUsername: "Abhinav_Raghav" }
 ];
+
 
 let leaderboardData = [];
 
