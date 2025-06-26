@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "api/leetcode.js", "use": "@vercel/node" },
+    { "src": "public/**", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/api/leetcode", "dest": "api/leetcode.js" },
+    { "src": "/(.*)", "dest": "/public/$1" }
+  ]
+}

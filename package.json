@@ -1,0 +1,17 @@
+{
+  "name": "leetcode-leaderboard",
+  "version": "1.0.0",
+  "description": "LeetCode leaderboard using Vercel frontend and serverless backend",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["leetcode", "leaderboard", "vercel", "nodejs"],
+  "author": "Raghav Garg",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
