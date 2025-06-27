@@ -30,16 +30,16 @@ const students = [
   { name: "Kalash Harchandani", enrollment: "E23CSEU0086", leetcodeUsername: "Kalash-Harchandani" },
   { name: "Yashvardhan Dhaka", enrollment: "E23CSEU1192", leetcodeUsername: "dhakayashvardhan72" },
   { name: "Anant Mishra", enrollment: "E23CSEU0324", leetcodeUsername: "anantmishra249" },
-  { name: "SAUMYA SINGH", enrollment: "E23CSEU0856", leetcodeUsername: null }, // Not a LeetCode profile
+  { name: "SAUMYA SINGH", enrollment: "E23CSEU0856", leetcodeUsername: "Saumya_Singh06" }, 
   { name: "Anmol Shrivastava", enrollment: "E23CSEU0068", leetcodeUsername: "AnmolShrivastava" },
   { name: "Aarushi Arora", enrollment: "E23CSEU0268", leetcodeUsername: "aarushiarora18" },
-  { name: "Avi Alok Kulshreshtha", enrollment: "E23CSEU2142", leetcodeUsername: "aviiiiiiiiiiiii" }, // Updated
+  { name: "Avi Alok Kulshreshtha", enrollment: "E23CSEU2142", leetcodeUsername: "aviiiiiiiiiiiii" },
   { name: "Jasleen Kaur", enrollment: "E23CSEU1129", leetcodeUsername: "Jasleennn_Kaur" },
   { name: "Paramveer Singh", enrollment: "e23cseu0967", leetcodeUsername: "theparamvrsingh" },
   { name: "Akshat Pandey", enrollment: "e23cseu0666", leetcodeUsername: "Good_Coder_3231" },
   { name: "Tanishq Batra", enrollment: "E23CSEU1126", leetcodeUsername: "tanishq130805" },
   { name: "Ayush Anand", enrollment: "E23CSEU1459", leetcodeUsername: "Aayushiv01" },
-  { name: "Aanchal Wadhwani", enrollment: "E23CSEU0071", leetcodeUsername: "aanchalw2005" }, // Updated
+  { name: "Aanchal Wadhwani", enrollment: "E23CSEU0071", leetcodeUsername: "aanchalw2005" }, 
   { name: "GARV MEHTA", enrollment: "E23CSEU0953", leetcodeUsername: "iamgarvmehta" },
   { name: "Manasvi Khanna", enrollment: "E23CSEU0056", leetcodeUsername: "manasvi1122" },
   { name: "Himanshi Chauhan", enrollment: "E23CSEU1513", leetcodeUsername: "YQfSJUfNEp" },
